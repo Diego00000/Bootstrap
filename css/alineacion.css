@@ -1,0 +1,11 @@
+.row{
+    height: 150px;
+    margin-top: 20px;
+    background: blue;
+}
+.col{
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+     background: rgb(72, 255, 0);
+}

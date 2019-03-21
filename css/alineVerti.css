@@ -1,0 +1,12 @@
+.row{
+    background: red;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.Columna{
+    background: blue;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    color: white;
+}

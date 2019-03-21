@@ -1,0 +1,22 @@
+.container{
+    margin-top: 20px;
+}
+.row{
+    background: red;
+    
+}
+.Columna{
+    background: blue;
+    text-align: center;
+    border: 2px solid black;
+    
+}
+.columnaInferior{
+    background: blue;
+    padding: 10px;
+    border: 2px solid black;
+    color: white;
+}
+.col{
+    text-align: center;
+}
